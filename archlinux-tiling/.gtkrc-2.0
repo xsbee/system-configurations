@@ -1,0 +1,4 @@
+gtk-icon-theme-name = "Papirus"
+gtk-theme-name = "Vertex"
+gtk-font-name = "sans-serif 12"
+gtk-enable-primary-paste = false

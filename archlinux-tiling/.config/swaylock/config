@@ -1,0 +1,9 @@
+ignore-empty-password
+show-failed-attempts
+#indicator-idle-visible
+show-keyboard-layout
+indicator-caps-lock
+
+line-color=00000000
+color=222222
+layout-bg-color=00000000

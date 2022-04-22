@@ -1,0 +1,17 @@
+#
+# This file is parsed by pam_env module
+#
+# Syntax: simple "KEY=VAL" pairs on separate lines
+#
+LIBVA_DRIVER_NAME=i965
+VDPAU_DRIVER=va_gl
+
+XDG_DATA_DIRS=/usr/local/share:/usr/share
+XDG_CONFIG_DIRS=/etc/xdg
+
+#WLR_RENDERER=vulkan
+
+_JAVA_AWT_WM_NONREPARENTING=1
+
+QT_QPA_PLATFORMTHEME=gtk2
+GTK_USE_PORTAL=1
